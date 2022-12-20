@@ -12,6 +12,6 @@ Using html and css
 
 ## Time taken to complete this Project
 
-5 hours
+6 hours
 
 [Live link](https://incandescent-duckanoo-4e7eea.netlify.app)
